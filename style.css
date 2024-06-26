@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: lightblue;
+}
+#head-con {
+  display: flex;
+  justify-content: center;
+}
+#head {
+  color: white;
+  font-family: "Rubik", sans-serif;
+  font-size: 100px;
+}
